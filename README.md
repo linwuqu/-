@@ -3,7 +3,7 @@ embeddings_cpu.pt和cleaned_patients.csv是重新做的 待会我看看能不能
 
 目前是文档主题检测也做完了 图也都可以画了 但是具体拼起来的过程还在fys那里
 
-`https://huggingface.co/spaces/theArijitDas/Product-Description-Similarity/tree/main` 相似度参考
-`https://huggingface.co/spaces/brendenc/Hip-Hop-gRadio` umap可视化参考
-主题提取（分类）用的NMF `n_topic`=10
-top-k用的pyLDAvis 直接对lda结果可视化展示
+`https://huggingface.co/spaces/theArijitDas/Product-Description-Similarity/tree/main` 相似度参考</br>
+`https://huggingface.co/spaces/brendenc/Hip-Hop-gRadio` umap可视化参考</br>
+主题提取（分类）用的NMF `n_topic`=10</br>
+top-k用的pyLDAvis 直接对lda结果可视化展示</br>
